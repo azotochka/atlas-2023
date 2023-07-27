@@ -1,0 +1,67 @@
+{
+	"id": -1,
+	"name": "♥ Li",
+	"description": "Heart symbolyzed Gratitude to Li, the artist who painted all arts for r/place_brff",
+	"links": {
+		"subreddit": [
+			"place_brff"
+		],
+		"discord": [
+			"89squad"
+		]
+	},
+	"path": {
+		"250": [
+			[
+				-350,
+				265
+			],
+			[
+				-341,
+				256
+			],
+			[
+				-341,
+				254
+			],
+			[
+				-345,
+				250
+			],
+			[
+				-347,
+				250
+			],
+			[
+				-350,
+				253
+			],
+			[
+				-353,
+				250
+			],
+			[
+				-355,
+				250
+			],
+			[
+				-359,
+				254
+			],
+			[
+				-359,
+				256
+			],
+			[
+				-350,
+				265
+			]
+		]
+	},
+	"center": {
+		"250": [
+			-350,
+			258
+		]
+	}
+}
